@@ -1,7 +1,5 @@
 # MongoDB Notes
 
-> MongoDB Crash Course 2022 < TODO: Add Video Link
-
 ## Table of Contents
 - [Check `monosh` Version](#check-monosh-version)
 - [Start the Mongo Shell](#start-the-mongo-shell)
