@@ -1,4 +1,4 @@
-# MongoDB Cheat Sheet 2022
+# MongoDB Notes
 
 > MongoDB Crash Course 2022 < TODO: Add Video Link
 
